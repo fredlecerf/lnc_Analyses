@@ -8,7 +8,7 @@ Desc: filter XML blast output (blastn, blastp, whatever) and return a tab delimi
 
 Options:
 
-	`verbose  : -v, verbose mode (optional)`
+	verbose  : -v, verbose mode (optional)
 
 	input    : -i [file], XML blast output
 
